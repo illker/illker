@@ -13,7 +13,7 @@
 
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
 
-- 👨‍💻 I’m currently learning **how enter the matrix** 
+<p align="center"></p>👨‍💻 I’m currently learning **how enter the matrix** </p>
 
 <details>
     <summary>:hamburger: Some of my projects are available at:</summary>
@@ -24,8 +24,8 @@
   <img
     src="/assets/logo-h-m.svg?raw=true"
     alt="moleculalab"
-    width="500"
-    height="131.5789"
+    width="350"
+    height="92.1053"
   />
 </a>
 
@@ -35,19 +35,18 @@
   <img
     src="/assets/logo-h-se.svg?raw=true"
     alt="semanticadigital"
-    width="500"
-    height="84.6354 "
+    width="350"
+    height="59.2448"
   />
 </a>
 </details>
 
 <details>
     <summary>:hamburger: GitHub Stats</summary>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=illker&show_icons=true&locale=en" alt="illker" /></p>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=illker&show_icons=true&locale=en" alt="illker" /></p>
 </details>
 
-
-<br />
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -410,7 +409,6 @@
   />
 </p>
 
-<br />
 
 ---
 
@@ -429,8 +427,6 @@
     src="https://img.shields.io/twitter/follow/illker?color=%20&label=%30illker"
     alt="illker"
 /></a>
-</p>
-<p align="left">
   <a href="https://linkedin.com/in/jdavidalzate" target="blank"
     ><img
       align="center"
