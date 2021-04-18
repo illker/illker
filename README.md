@@ -52,22 +52,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="30"
-      height="30"
-    />
-  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -100,38 +84,8 @@
       height="30"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="30"
-      height="30"
-    />
-  </a>
+
+
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
@@ -140,14 +94,7 @@
       height="30"
     />
   </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="30"
-      height="30"
-    />
-  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -172,14 +119,7 @@
       height="30"
     />
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="30"
-      height="30"
-    />
-  </a>
+
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -198,23 +138,8 @@
       width="30"
       height="30"
     />
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"
-      alt="matlab"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="30"
-      height="30"
-    />
-  </a>
+
+
   <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -255,22 +180,7 @@
       height="30"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="30"
-      height="30"
-    />
-  </a>
+
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -287,38 +197,7 @@
       height="30"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="30"
-      height="30"
-    />
-  </a>
+
   <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -327,14 +206,7 @@
       height="30"
     />
   </a>
-  <a href="https://travis-ci.org" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
-      alt="travisci"
-      width="30"
-      height="30"
-    />
-  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -359,26 +231,18 @@
       height="30"
     />
   </a>
-  <a href="https://vuepress.vuejs.org/" target="_blank">
+   <a href="https://www.photoshop.com/en" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-      alt="vuepress"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
       width="30"
       height="30"
     />
   </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank">
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      alt="illustrator"
       width="30"
       height="30"
     />
@@ -391,10 +255,11 @@
       height="30"
     />
   </a>
-  <a href="https://zapier.com" target="_blank">
+    </a>
+  <a href="https://www.figma.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"
-      alt="zapier"
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
       width="30"
       height="30"
     />
@@ -402,7 +267,8 @@
 </p>
 
 <br />
-
+<details>
+    <summary>:hamburger: Most Used Languages</summary>
 <p align="center">
   <img
     align="center"
@@ -410,6 +276,7 @@
     alt="illker"
   />
 </p>
+</details>
 
 
 ---
