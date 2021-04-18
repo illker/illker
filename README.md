@@ -24,6 +24,8 @@
   <img
     src="/assets/logo-h-m.svg?raw=true"
     alt="moleculalab"
+    width="500"
+    height="131.5789"
   />
 </a>
 
@@ -33,22 +35,18 @@
   <img
     src="/assets/logo-h-se.svg?raw=true"
     alt="semanticadigital"
+    width="500"
+    height="84.6354 "
   />
 </a>
 </details>
 
 <details>
     <summary>:hamburger: GitHub Stats</summary>
-  
-    <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=illker&show_icons=true&locale=en"
-          alt="illker"
-        />
-
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=illker&show_icons=true&locale=en" alt="illker" /></p>
 </details>
 
-<br />
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -402,17 +400,20 @@
   </a>
 </p>
 
-<p>
+<br />
+
+<p align="center">
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=illker&show_icons=true&locale=en&layout=compact"
     alt="illker"
   />
 </p>
 
+<br />
 
-<br />
-<br />
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/illker" target="blank"
