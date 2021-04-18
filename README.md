@@ -11,7 +11,9 @@
   Industrial engineer by profession, designer, programmer, marketer by passion
 </h3>
 
+<p align="center">
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
+</p>
 
 <p align="center">👨‍💻 I’m currently learning **how enter the matrix** </p>
 
