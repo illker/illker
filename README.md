@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Alzate²</h1>
 <h3 align="center">Industrial engineer by profession, designer, programmer, marketer by passion</h3>
 
-<p><img src='https://semanticadigital.com/wp-content/uploads/2017/01/github-cover.gif' /></p>
+<img src='/assets/cover-illker.gif?raw=true' />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illker&label=Profile%20views&color=0e75b6&style=flat" alt="illker" /> </p>
