@@ -13,7 +13,7 @@
 
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
 
-<p align="center"></p>👨‍💻 I’m currently learning **how enter the matrix** </p>
+<p align="center">👨‍💻 I’m currently learning **how enter the matrix** </p>
 
 <details>
     <summary>:hamburger: Some of my projects are available at:</summary>
