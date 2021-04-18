@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm David Alzate²</h1>
 <h3 align="center">Industrial engineer by profession, designer, programmer, marketer by passion</h3>
 
+<img align="center" src="https://semanticadigital.com/wp-content/uploads/2017/01/github-cover.gif" alt="illker" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illker&label=Profile%20views&color=0e75b6&style=flat" alt="illker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=illker" alt="illker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/illker" target="blank"><img src="https://img.shields.io/twitter/follow/illker?logo=twitter&style=for-the-badge" alt="illker" /></a> </p>
 
-- 🌱 I’m currently learning **How make the fastest, secure, and realibity development**
+- 🌱 I’m currently learning **how enter the matrix**
 
-- 👨‍💻 All of my projects are available at [moleculalab.com/da2-portofolio](moleculalab.com/da2-portofolio)
+- 👨‍💻 All of my projects are available at [moleculalab.com/portofolio](moleculalab.com/portofolio)
 
 - 📫 How to reach me **da2@moleculalab.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
