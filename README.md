@@ -5,6 +5,10 @@
     src="https://komarev.com/ghpvc/?username=illker&color=green"
     alt="illker"
   />
+ <img
+    src="https://img.shields.io/badge/Languages-English%20%2B%20Espa%C3%B1ol-brightgreen"
+    alt="illker"
+  />
 </p>
 
 <h3 align="center">
@@ -266,14 +270,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/illker" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
-      alt="illker"
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://twitter.com/illker" target="blank"
   ><img
     src="https://img.shields.io/twitter/follow/illker?color=%20&label=%30illker"
     alt="illker"
@@ -281,7 +277,23 @@
   <a href="https://linkedin.com/in/jdavidalzate" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      src="https://img.shields.io/badge/-Jdavidalzate-blue?style=flat&logo=Linkedin&logoColor=white"
+      alt="jdavidalzate"
+      height="30"
+      width="30"
+  /></a>
+    <a href="mailto:da2@fixdesign.co" target="blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-da2-c14438?style=flat&logo=Gmail&logoColor=white"
+      alt="jdavidalzate"
+      height="30"
+      width="30"
+  /></a>
+      <a href="https://www.instagram.com/david2alzate" target="blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-david2alzate-c13585?style=flat&labelColor=c13584&logo=instagram&logoColor=white"
       alt="jdavidalzate"
       height="30"
       width="30"
