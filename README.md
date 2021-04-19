@@ -19,7 +19,7 @@
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
 </p>
 
-<p align="center">👨‍💻 I’m currently learning <b>how enter the matrix</b> 👨‍💻 </p>
+<p align="center">👨‍💻 I’m currently learning <b>how to enter the matrix</b> 👨‍💻 </p>
 
 <details>
     <summary>:hamburger: Some of my projects are available at:</summary>
@@ -30,8 +30,8 @@
   <img
     src="/assets/logo-h-m.svg?raw=true"
     alt="moleculalab"
-    width="300"
-    height="78.9474"
+    width="270"
+    height="71.0526"
   />
 </a>
 
@@ -271,7 +271,7 @@
 <p align="left">
   <a href="https://twitter.com/illker" target="blank"
   ><img
-    src="https://img.shields.io/twitter/follow/illker?color=%20&label=%30illker"
+    src="https://img.shields.io/twitter/follow/illker?style=social"
     alt="illker"
 /></a>
   <a href="https://linkedin.com/in/jdavidalzate" target="blank"
