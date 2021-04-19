@@ -19,7 +19,7 @@
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
 </p>
 
-<p align="center">👨‍💻 I’m currently learning <b>how enter the matrix</b> </p>
+<p align="center">👨‍💻 I’m currently learning <b>how enter the matrix</b> 👨‍💻 </p>
 
 <details>
     <summary>:hamburger: Some of my projects are available at:</summary>
@@ -279,23 +279,17 @@
       align="center"
       src="https://img.shields.io/badge/-Jdavidalzate-blue?style=flat&logo=Linkedin&logoColor=white"
       alt="jdavidalzate"
-      height="30"
-      width="30"
   /></a>
     <a href="mailto:da2@fixdesign.co" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-da2-c14438?style=flat&logo=Gmail&logoColor=white"
-      alt="jdavidalzate"
-      height="30"
-      width="30"
+      alt="da2@fixdesign.co"
   /></a>
-      <a href="https://www.instagram.com/david2alzate" target="blank"
+    <a href="https://www.instagram.com/david2alzate" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-david2alzate-c13585?style=flat&labelColor=c13584&logo=instagram&logoColor=white"
-      alt="jdavidalzate"
-      height="30"
-      width="30"
-  /></a>
+      alt="david2alzate"
+   /></a>
 </p>
