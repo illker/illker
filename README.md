@@ -15,7 +15,7 @@
 <img align="center" src="/assets/cover-illker.gif?raw=true" />
 </p>
 
-<p align="center">👨‍💻 I’m currently learning **how enter the matrix** </p>
+<p align="center">👨‍💻 I’m currently learning <b>how enter the matrix</b> </p>
 
 <details>
     <summary>:hamburger: Some of my projects are available at:</summary>
@@ -26,8 +26,8 @@
   <img
     src="/assets/logo-h-m.svg?raw=true"
     alt="moleculalab"
-    width="350"
-    height="92.1053"
+    width="300"
+    height="78.9474"
   />
 </a>
 
@@ -37,8 +37,8 @@
   <img
     src="/assets/logo-h-se.svg?raw=true"
     alt="semanticadigital"
-    width="350"
-    height="59.2448"
+    width="300"
+    height="50.7813"
   />
 </a>
 </details>
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Developing skills and powers in:</h3>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank">
     <img
