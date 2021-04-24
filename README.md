@@ -271,7 +271,8 @@
 <p align="left">
   <a href="https://twitter.com/illker" target="blank"
   ><img
-    src="https://img.shields.io/badge/-illker-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white"
+    align="center" 
+    src="https://img.shields.io/twitter/follow/illker?style=social"
     alt="illker"
 /></a>
   <a href="https://linkedin.com/in/jdavidalzate" target="blank"
