@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  Industrial engineer by profession, designer, programmer, marketer by passion
+  Industrial engineer by profession, software developer, designer and marketer by passion
 </h3>
 
 <p align="center">
@@ -271,25 +271,25 @@
 <p align="left">
   <a href="https://twitter.com/illker" target="blank"
   ><img
-    src="https://img.shields.io/twitter/follow/illker?style=social"
+    src="https://img.shields.io/badge/-illker-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white"
     alt="illker"
 /></a>
   <a href="https://linkedin.com/in/jdavidalzate" target="blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/-Jdavidalzate-blue?style=flat&logo=Linkedin&logoColor=white"
+      src="https://img.shields.io/badge/-Jdavidalzate-5f82ff?style=flat&logo=Linkedin&logoColor=white"
       alt="jdavidalzate"
   /></a>
-    <a href="mailto:da2@fixdesign.co" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-da2-c14438?style=flat&logo=Gmail&logoColor=white"
-      alt="da2@fixdesign.co"
-  /></a>
-    <a href="https://www.instagram.com/david2alzate" target="blank"
+      <a href="https://www.instagram.com/david2alzate" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-david2alzate-c13585?style=flat&labelColor=c13584&logo=instagram&logoColor=white"
       alt="david2alzate"
    /></a>
+    <a href="mailto:da2@fixdesign.co" target="blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-da2@fixdesign.co-0a2030?style=flat&logo=Gmail&logoColor=white"
+      alt="da2@fixdesign.co"
+  /></a>
 </p>
