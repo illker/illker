@@ -16,7 +16,7 @@
 </h3>
 
 <p align="center">
-<img align="center" src="/assets/cover-illker-da2.gif?raw=true" />
+  <img src="/assets/cover-illker-da2.gif?raw=true" alt="illker"/>
 </p>
 
 <p align="center">👨‍💻 I’m currently learning <b>how to enter the matrix</b> 👨‍💻 </p>
