@@ -233,15 +233,6 @@
       height="30"
     />
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      width="30"
-      height="30"
-    />
-  </a>
-    </a>
   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
