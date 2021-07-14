@@ -98,6 +98,14 @@
       height="30"
     />
   </a>
+    <a href="https://www.typescriptlang.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
+      alt="typescript"
+      width="30"
+      height="30"
+    />
+  </a>
   
    <a href="https://www.mysql.com/" target="_blank">
     <img
