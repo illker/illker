@@ -280,13 +280,7 @@
       src="https://img.shields.io/badge/-Jdavidalzate-5f82ff?style=flat&logo=Linkedin&logoColor=white"
       alt="jdavidalzate"
   /></a>
-      <a href="https://www.instagram.com/david2alzate" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-david2alzate-c13585?style=flat&labelColor=c13584&logo=instagram&logoColor=white"
-      alt="david2alzate"
-   /></a>
-    <a href="mailto:da2@fixdesign.co" target="blank"
+  <a href="mailto:da2@fixdesign.co" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-da2@fixdesign.co-0a2030?style=flat&logo=Gmail&logoColor=white"
